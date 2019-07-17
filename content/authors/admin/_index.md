@@ -1,6 +1,6 @@
 ---
 # Display name
-name: John C Donahue
+name: John C. Donahue
 
 
 # Username (this should match the folder name)
@@ -42,7 +42,7 @@ bio:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jcd484@nyu.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -50,4 +50,4 @@ user_groups: '[]'
  
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab.
+Hello! I am a researcher in particle theory at the Center for Cosmology and Particle Physics at New York University. This website hosts some links to research projects and information on my teaching experience. 
