@@ -8,3 +8,14 @@ header:
   image: ""
 ---
 
+#### New York University
+
+* Einstein's Universe  
+    - _Spring_ _2019_  
+    - _Fall_ _2018_  
+  
+
+#### College of William & Mary
+
+* Applied Financial Derivatives  
+    - _Fall_ _2015_
