@@ -30,6 +30,11 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+
+
+- icon: envelope
+  icon_pack: fas
+  link: mailto:jcd484 at nyu.edu
  
 - icon: inspire
   icon_pack: ai
@@ -55,4 +60,4 @@ user_groups: '[]'
  
 ---
 
-Hello! I am a researcher in particle theory at the Center for Cosmology and Particle Physics at New York University. This website hosts some links to research projects and information on my teaching experience. 
+Welcome! I am a researcher in particle theory at the Center for Cosmology and Particle Physics at New York University. This website hosts some links to research projects, publications and information on my teaching experience. 
