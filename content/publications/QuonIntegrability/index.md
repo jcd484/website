@@ -36,7 +36,7 @@ links:
 - icon_pack: ai
   icon: arxiv
   name: Arxiv
-  url: http://example.org
+  url: https://arxiv.org/abs/1907.07799
 
 url_pdf:  ''
 url_code: ''
